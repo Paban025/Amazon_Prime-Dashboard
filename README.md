@@ -79,7 +79,7 @@ To deliver a visually engaging Power BI dashboard that:
 
 ## 📷 Screenshots
 
-![Amazon Prime Dashboard Preview](./Screenshot%202025-07-30%20224930.png)
+![Amazon Prime Dashboard Preview](https://raw.githubusercontent.com/Paban025/Amazon_Prime-Dashboard/main/Amazon-Prime.png)
 
 ---
 
